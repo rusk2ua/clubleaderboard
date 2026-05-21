@@ -1155,4 +1155,4 @@ MIT — see `package.json`
 
 ---
 
-*73 de N2WQ — Yankee Clipper Contest Club*
+*73 de Rus, K2UA (forked from a project by N2WQ of the Yankee Clipper Contest Club)*
