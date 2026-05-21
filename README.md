@@ -4,7 +4,7 @@
 
 The Club Awards Program processes Cabrillo log files submitted by club members after ham radio contests, validates membership and dues status, calculates normalized Club Award Points, and displays live and historical leaderboards. It also monitors DX cluster telnet feeds to award **Cheerleader Points** to members who spot other club members on the air.
 
-> **Note for YCCC operators:** This codebase was originally built for the Yankee Clipper Contest Club. The club-specific strings (club name validation in `server/scoring-engine.ts`, Cabrillo CLUB field matching in `server/cabrillo-parser.ts`, and the roster URL in `server/roster-scraper.ts`) remain configured for YCCC. See [Adapting for Another Club](#adapting-for-another-club) if you are deploying this for a different organization.
+> **Note for N2WQ and YCCC operators:** This codebase was originally built by N2WQ for the Yankee Clipper Contest Club. The club-specific strings (club name validation in `server/scoring-engine.ts`, Cabrillo CLUB field matching in `server/cabrillo-parser.ts`, and the roster URL in `server/roster-scraper.ts`) remain configured for YCCC. See [Adapting for Another Club](#adapting-for-another-club) if you are deploying this for a different organization.
 
 ---
 
